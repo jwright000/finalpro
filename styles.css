@@ -1,0 +1,61 @@
+
+
+/* HTML Styles */
+
+html {
+    background-color: rgb(6, 0, 128);
+    color: white;
+}
+
+/* Header Styles */
+
+header {
+    text-align:center;
+}
+/* Table Styles */
+
+table{
+    background-color: rgb(144, 225, 238);
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    margin:auto;
+}
+
+.name{
+    text-align: right;
+
+}
+
+th#name {
+    text-align:center;
+}
+
+th#alsoName, th#name {
+    padding: 3px;
+}
+
+tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: black;
+    padding: 10px;
+}
+
+/* Images Styles */
+
+img {
+    padding: 10px;
+    border: 3px solid blue;
+    height: 150px;
+    width: 200px;
+    display:block;
+    margin:auto;
+    padding: 10px;
+}
+
+/* Footer Styles */
+
+footer {
+    text-align: center;
+}
